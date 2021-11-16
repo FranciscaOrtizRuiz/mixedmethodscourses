@@ -1,2 +1,17 @@
-# mixedmethodscourses
-Repository of material and resources used for teaching mixed methods for SNA. 
+# Mixed Methods courses
+
+This repository aims sharing material and resources that I created for teaching Mixed Methods for Social Network Analysis. 
+
+En este repositorio busco compartir materiales y recursos que he creado para enseñar Métodos Mixtos para el Análisis de Redes Sociales. 
+
+#### Workshop "Métodos mixtso y el análisis de redes sociales" en Conferencia RLARS 2021.
+
+Sesión realizada el 16 de Noviembre, 2021. Organizado por la Red Latinoaméricana de Redes Sociales RLARS. 
+
+Idioma (language): Español (Spanish)💻 
+
+#### Para contactarme // Contact information:
+
+🌻 [Twitter](https://twitter.com/FranciscaOrtizR)
+
+📫 Email: franortizruiz@gmail.com
