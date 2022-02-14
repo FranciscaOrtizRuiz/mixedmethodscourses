@@ -16,4 +16,4 @@ Idioma (language): Español (Spanish)
 
 🌻 [Twitter](https://twitter.com/FranciscaOrtizR)
 
-📫 Email: franortizruiz@gmail.com
+📫 Email: franortizruiz@gmail.com o francisca.ortiz@micare.cl
